@@ -3,7 +3,7 @@ galaxy_info:
   author: ericsysmin
   role_name: ericsysmin.logrotate
   description: Role manages logrotate instlalation
-  issue_tracker_url: http://example.com/issue/tracker
+  issue_tracker_url: https://github.com/ericsysmin/ansible-role-logrotate/issues
   license: BSD
   min_ansible_version: 1.2
   platforms:
