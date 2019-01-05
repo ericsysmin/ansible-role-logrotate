@@ -1,0 +1,29 @@
+---
+galaxy_info:
+  author: ericsysmin
+  role_name: ericsysmin.logrotate
+  description: Role manages logrotate instlalation
+  issue_tracker_url: http://example.com/issue/tracker
+  license: BSD
+  min_ansible_version: 1.2
+  platforms:
+    - name: EL
+      versions:
+        - 7
+    - name: Fedora
+      versions:
+        - 27
+        - 28
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+        - bionic
+    - name: Debian
+      versions:
+        - jessie
+        - stretch
+        - wheezy
+
+  galaxy_tags: []
+dependencies: []
