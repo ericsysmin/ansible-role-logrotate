@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: ericsysmin
-  role_name: ericsysmin.logrotate
+  role_name: logrotate
   description: Role manages logrotate instlalation
   issue_tracker_url: https://github.com/ericsysmin/ansible-role-logrotate/issues
   license: MIT
