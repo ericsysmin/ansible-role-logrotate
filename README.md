@@ -10,11 +10,11 @@ None
 
 ## Role Variables
 
-| Variable | Required | Default | Comments |
-|----------|----------|---------|----------|
-| `logrotate_install` | No | `true` | Install package true/false |
-| `logrotate_conf_dir` | No | `/etc/logrotate.d/` | Configuration directory of logrotate files |
-| `logrotate_files` | No | `[]` | List of the logrotate files to be created |
+| Variable             | Required | Default             | Comments                                   |
+| -------------------- | -------- | ------------------- | ------------------------------------------ |
+| `logrotate_install`  | No       | `true`              | Install package true/false                 |
+| `logrotate_conf_dir` | No       | `/etc/logrotate.d/` | Configuration directory of logrotate files |
+| `logrotate_files`    | No       | `[]`                | List of the logrotate files to be created  |
 
 ## Dependencies
 
@@ -22,8 +22,7 @@ None
 
 ## Example Playbook
 
-```
-
+```yaml
 - hosts: servers
   roles:
     - role: ericsysmin.logrotate
