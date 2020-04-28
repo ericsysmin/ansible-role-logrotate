@@ -1,3 +1,5 @@
+# THIS REPO IS NO LONGER MAINTAINED - MOVED TO [ericsysmin.system.logrotate](https://github.com/ericsysmin/ansible-collection-system)
+
 # ericsysmin.logrotate
 
 [![Build Status](https://travis-ci.org/ericsysmin/ansible-role-logrotate.svg?branch=master)](https://travis-ci.org/ericsysmin/ansible-role-llogrotate)
